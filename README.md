@@ -1,1 +1,1 @@
-# fav-food-lab-Phuwich
+# โปรเจกต์นี้ใช้สําหรับฝึกเขียน HTML และ Git
